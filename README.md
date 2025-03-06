@@ -9,7 +9,7 @@ Este proyecto es una aplicación interactiva que permite a los usuarios agregar 
 - Realizar el sorteo aleatorio de un amigo secreto.
 
 ## 📸 Captura de pantalla
-![Vista previa del proyecto](assets/amigo-secreto.jpg)
+![Vista previa del proyecto](assets/amigo-secreto.png)
 
 ## 📂 Acceso al proyecto
 Puedes acceder al código fuente aquí: [Repositorio en GitHub](https://github.com/FcoAleuy/challenge-amigo-secreto_esp-main)
